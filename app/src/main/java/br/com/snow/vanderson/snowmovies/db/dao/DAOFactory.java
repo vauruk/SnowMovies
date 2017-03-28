@@ -15,5 +15,5 @@ public interface DAOFactory {
      * @param context
      * @return
      */
-    public abstract DAO createMovieDAO(Context context);
+    DAO createMovieDAO(Context context);
 }

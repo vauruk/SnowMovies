@@ -1,9 +1,8 @@
 package br.com.snow.vanderson.snowmovies.app;
 
-import android.app.ProgressDialog;
 import android.support.v4.app.Fragment;
 
-import br.com.snow.vanderson.snowmovies.R;
+
 import br.com.snow.vanderson.snowmovies.db.dao.DAOFactory;
 import br.com.snow.vanderson.snowmovies.db.dao.DAOFactorySQLite;
 

@@ -41,10 +41,6 @@ public class DBHelper extends SQLiteOpenHelper {
 
         db.execSQL(sql);
 
-     //   String insert = "insert into "+ TBL_MOVIE +" (id, name, dataIn, beaconAddress ) values (1, 'Vanderson Teste','22/03/1981', 'DD:EE:FF:33:44');";
-    //    db.execSQL(insert);
-     //   String insert2 = "insert into "+ TBL_MOVIE +" (id, name, dataIn, beaconAddress ) values (2, 'Teste 2','31/12/1981', 'FF:00:00:33:44');";
-   //     db.execSQL(insert2);
     }
 
     @Override

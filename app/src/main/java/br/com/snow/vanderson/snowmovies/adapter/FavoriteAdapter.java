@@ -93,7 +93,5 @@ public class FavoriteAdapter extends ArrayAdapter<MovieBO> {
     @Override
     public void add(@Nullable MovieBO object) {
         list.add(object);
-        //this.notifyDataSetChanged();
-
     }
 }

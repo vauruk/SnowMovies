@@ -46,10 +46,6 @@ public class MovieDAO extends DAOGeneric {
         return movieBO;
     }
 
-   /* protected Cursor createQuerySqLite( String[] whereArgs) {
-        return db.rawQuery("select * from tbl_movie where idMovie= ?", new String[]{293660});
-
-    }*/
 
     @Override
     public EntityApp load(EntityApp entity, String whereClause, String[] whereArgs, String orderBy) {
