@@ -6,6 +6,20 @@
 ----
 - VM - Genymotion - Google Nexus 5 - Android 6.0.0 - API 23 resolução - 1080x1920
 ----
+---- Funcionamento ------
+Implementado
+Passo 1 e 2
+- Para abrir detalhe de filmes a acao esta na row de cada lista e a opcao favoritar grava no banco local e tem um switch para favoritar e desfavoritar, e a navegação esta em top e popular
+
+Passo 3 - eu estudei a api para trailer YouTubePlayerView mas nao teria tempo habil para colocar ele no ar
+
+
+
+
+----------------------------
+
+
+
 
 -- Utilizado Android Studio para o desenvolvimento
 - Criado projeto com guia de botoes de navegação fixa no rodapé da aplicação
